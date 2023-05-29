@@ -1,4 +1,4 @@
-# OpenAI-Asistsant
+# OpenAI-Asistsant(Glimmer v.01)
 
 Proje Adı: Sesli Soru-Cevap Programı
 
